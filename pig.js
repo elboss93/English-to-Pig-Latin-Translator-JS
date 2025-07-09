@@ -1,7 +1,7 @@
 
 
 
-    console.log("Welcome to Pig Latin Translator");
+    console.log("Welcome to  Englich  to Pig Latin Translator");
 
 let phraseInput = process.argv[2];
 
